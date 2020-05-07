@@ -11,6 +11,7 @@
 - The script works on both MacOS and Linux.
 
 **Execution**
+
 Scenario 1: You input Start and End Value:
 `$> bash random_order.sh 50 60`
 
