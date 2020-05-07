@@ -5,4 +5,14 @@
 **Answer**
 - I have usued Bash for this task.
 - The file **random_order.sh** has the code.
-- The Application requires input 
+- The Application requires input of two numbers, start and end.
+- If the Start or End value is not provided, it will take the dafault values. Plus it will print the message in terminal as well.
+- Default values : Start = 1, End = 10
+- The script works on both MacOS and Linux.
+
+**Execution**
+Scenario 1: You input Start and End Value:
+`$> bash random_order.sh 50 60`
+
+Scenario 2: You input No Start and End Value:
+`$> bash random_order.sh`
